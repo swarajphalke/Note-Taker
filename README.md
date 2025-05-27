@@ -32,9 +32,13 @@ note-taker/ <br>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/note-taker.git
+git clone https://github.com/swarajphalke/note-taker.git
 ```
-2. Open index.html in your preferred browser.
+2. Open **index.html** in your preferred browser.
 
    That's it! Start taking notes instantly.
- 
+
+ ---
+
+## 🤝 Let's Connect
+If you find this repository useful or inspiring, feel free to ⭐️ the repo and connect with me on htps://www.linkedin.com/in/swaraj-phalke-b5539b220/.
